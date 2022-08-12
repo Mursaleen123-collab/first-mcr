@@ -270,6 +270,7 @@
 								<li class="submenu-item"><a class="submenu-link" href="degree-name.php">Degree Offered</a></li>
 								<li class="submenu-item"><a class="submenu-link" href="course-list.php">Course List</a></li>
 								<li class="submenu-item"><a class="submenu-link" href="course-assign.php">Course Assign</a></li>
+								<li class="submenu-item"><a class="submenu-link" href="time-table.php">Time Table</a></li>
 							</ul>
 						</div>
 					</li>
