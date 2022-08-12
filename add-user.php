@@ -110,6 +110,12 @@
 												</select>
 											</div>
 										</div>
+										<div class="mb-3 row">
+											<label for="salary" class="col-sm-3 col-form-label">Salary</label>
+											<div class="col-sm-9 ">
+												<input type="number" class="form-control" id="salary">
+											</div>
+										</div>
 								</div>
 								<div class="text-end">
 									<button type="submit" class="btn app-btn-primary w-30 theme-btn ">Add</button>

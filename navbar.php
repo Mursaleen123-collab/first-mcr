@@ -148,7 +148,7 @@
 						<div class="app-utility-item app-user-dropdown dropdown">
 							<a class="dropdown-toggle" id="user-dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false"><img src="assets/images/user.png" alt="user profile"></a>
 							<ul class="dropdown-menu" aria-labelledby="user-dropdown-toggle">
-								<li><a class="dropdown-item" href="account.html">Account</a></li>
+								<li><a class="dropdown-item" href="admin-account.php">Account</a></li>
 								<li><a class="dropdown-item" href="settings.php">Settings</a></li>
 								<li>
 									<hr class="dropdown-divider">
@@ -269,6 +269,7 @@
 							<ul class="submenu-list list-unstyled">
 								<li class="submenu-item"><a class="submenu-link" href="degree-name.php">Degree Offered</a></li>
 								<li class="submenu-item"><a class="submenu-link" href="course-list.php">Course List</a></li>
+								<li class="submenu-item"><a class="submenu-link" href="course-assign.php">Course Assign</a></li>
 							</ul>
 						</div>
 					</li>
@@ -293,8 +294,8 @@
 						<!--//nav-link-->
 						<div id="submenu-4" class="collapse submenu submenu-3" data-bs-parent="#menu-accordion">
 							<ul class="submenu-list list-unstyled">
-								<li class="submenu-item"><a class="submenu-link" href="semester-name.php">Staff Pay</a></li>
-								<li class="submenu-item"><a class="submenu-link" href="course-list.php">Student Fee</a></li>
+								<li class="submenu-item"><a class="submenu-link" href="staff-pay.php">Staff Pay</a></li>
+								<li class="submenu-item"><a class="submenu-link" href="student-fee.php">Student Fee</a></li>
 							</ul>
 						</div>
 					</li>

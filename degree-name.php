@@ -28,7 +28,6 @@
 
 		<div class="app-content pt-3 p-md-3 p-lg-4">
 			<div class="container-xl">
-
 				<h1 class="app-page-title">Course Offered</h1>
 
 

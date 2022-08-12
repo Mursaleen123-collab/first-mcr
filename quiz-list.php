@@ -45,7 +45,6 @@
                                             <button type="submit" class="btn app-btn-secondary">Search</button>
                                         </div>
                                     </form>
-
                                 </div>
                                 <!--//col-->
                                 <div class="col-auto">

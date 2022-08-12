@@ -67,7 +67,7 @@
 											<label for="inputPassword4" class="form-label">Password</label>
 											<input type="password" class="form-control" id="inputPassword4">
 										</div>
-										<div class="col-md-4">
+										<div class="col-md-3">
 											<label for="Gender" class="form-label">Gender</label>
 											<div class="form-check">
 												<input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
@@ -78,11 +78,15 @@
 												<label class="form-check-label" for="flexRadioDefault1">Female</label>
 											</div>
 										</div>
-										<div class="col-md-4">
+										<div class="col-md-3">
+											<label for="session" class="form-label">Session</label>
+											<input type="text" class="form-control" id="session">
+										</div>
+										<div class="col-md-3">
 											<label for="phonenumber" class="form-label">Cell No#</label>
 											<input type="number" class="form-control" id="phonenumber">
 										</div>
-										<div class="col-md-4">
+										<div class="col-md-3">
 											<label for="Degreename" class="form-label">Degree Name</label>
 											<select id="Degreename" class="form-select">
 												<option selected>Choose...</option>
@@ -99,7 +103,7 @@
 											<label for="inputAddress2" class="form-label">Address 2</label>
 											<input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
 										</div>
-										<div class="col-md-6">
+										<div class="col-md-4">
 											<label for="inputCity" class="form-label">City</label>
 											<input type="text" class="form-control" id="inputCity">
 										</div>
@@ -113,6 +117,10 @@
 										<div class="col-md-2">
 											<label for="inputZip" class="form-label">Zip</label>
 											<input type="text" class="form-control" id="inputZip">
+										</div>
+										<div class="col-md-2">
+											<label for="studentfee" class="form-label">Fee/-</label>
+											<input type="number" class="form-control" id="studentfee">
 										</div>
 										<div class="row mt-3">
 											<div class="col-lg-2 mx-auto">
